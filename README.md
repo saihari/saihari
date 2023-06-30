@@ -29,7 +29,7 @@ I am an experienced engineer with a strong background in MLOps, ML engineering, 
 <br>
 
 - 🎓 Graduated with a Master's in Data Science from Indiana University, Bloomington.
-- 🧑‍💼 Expertise in applying MLOps, ML Engineering, Data Engineering, and Cloud Engineering.
+- 🧑‍💼 Expertise in MLOps, ML Engineering, Data Engineering, and Cloud Engineering.
 - 🌱 I’m currently learning to build real-time ML systems.
 - 🔭 Ready to explore and learn new things.
 - ⚡ Fun fact: Indian Foodie and Movie buff.
