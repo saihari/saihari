@@ -93,7 +93,3 @@ I am an experienced engineer with a strong background in MLOps, ML engineering, 
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge"/>
   </a>
 </div>
-
-<br>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
