@@ -94,5 +94,6 @@ I am an experienced engineer with a strong background in MLOps, ML engineering, 
   </a>
 </div>
 
+<br>
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
